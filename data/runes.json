@@ -1,0 +1,25 @@
+{
+  "items": {
+    "a": "farmer",
+    "b": "wings",
+    "c": "giraffe",
+    "d": "bald man",
+    "e": "fairy",
+
+    "g": "cloak",
+    "h": "hanging cloak",
+
+    "k": "heart",
+    "l": "scissors",
+    "m": "crystal",
+
+    "p": "campfire",
+    "q": "wing right",
+    "r": "wing left",
+    "s": "pregnant woman",
+    
+    "x": "penguin",
+    "y": "buggy",
+    "z": "praying hands"
+  }
+}
