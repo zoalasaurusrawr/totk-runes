@@ -1,0 +1,7 @@
+Regex patterns
+
+Find words ending in vowel or 'n'
+^.*[aeiounAEIOUN]$
+
+Find words ending in consonants
+^.*[kgszjtdhfbpmyrwKGSZJTDHFBPMYRW]$

@@ -1,0 +1,8 @@
+| Notes          | 1                                                                                               | 2  | 3   | 3 | 4  | 5   | 6  | 7  | 8  | 9 | 10 | 11 | 12   | 13 | 14   | 15  | 16 | 17 | 18 | 19 |                                                                                   |  |  |  |  |
+| -------------- | ----------------------------------------------------------------------------------------------- | -- | --- | - | -- | --- | -- | -- | -- | - | -- | -- | ---- | -- | ---- | --- | -- | -- | -- | -- | --------------------------------------------------------------------------------- |  |  |  |  |
+| Furigana       |                                                                                                 |    | おさ  |   |    | だい  | えん | く  |    |   |    | ひ  | から   |    | から   |     | ひ  | か  |    |    | This is the most direct translation from the text with no adjustments for grammar |
+| Hiragana+Kanji | た                                                                                               | り  | 長   | お | へ  | 大   | 円  | 暮  | れ  | お | ん  | 日  | 軽    | く  | 空    | し   | 緋  | 化  | ら  | か  |
+| Romaji         | DA                                                                                              | RI | OSA | O | HE | DAI | EN | KU | RE | O | N  | HI | KARU | KU | KARA | SHI | HI | KA | RA | KA |
+| Translation 1  | "The sun sets at the end of a great circle, the sky is clear, and the scarlet light is bright." |
+| \-             |
+|                |                |
